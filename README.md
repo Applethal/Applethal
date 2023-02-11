@@ -1,6 +1,10 @@
 ### I am a man full of hobbies that I keep switching depending on the mood, though I shall always be a mage bursting lines of code from my swifty fingers 🧙‍.
 
-<audio src="https://cdn.discordapp.com/attachments/871409013135405136/1073909685788364860/Walpurgisnacht.mp3" controls preload></audio>
+
+https://user-images.githubusercontent.com/114657050/218252849-58e0999b-4b51-4186-adaf-c98a59983288.mp4
+
+Walpurgisnacht is one of my favourite songs by Daisuke Ishiwatari, the title itself symbolises quite well my desire to upload my contributions more often at night. 
+
 
 <!--
 **Applethal/Applethal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
