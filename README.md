@@ -1,4 +1,6 @@
-### Hi there 👋
+### I am a man full of hobbies that I keep switching depending on the mood, though I shall always be a mage bursting lines of code from my swifty fingers 🧙‍.
+
+<audio src="https://cdn.discordapp.com/attachments/871409013135405136/1073909685788364860/Walpurgisnacht.mp3" controls preload></audio>
 
 <!--
 **Applethal/Applethal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
