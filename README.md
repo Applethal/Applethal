@@ -4,7 +4,7 @@
 https://user-images.githubusercontent.com/114657050/218252849-58e0999b-4b51-4186-adaf-c98a59983288.mp4
 
 Walpurgisnacht is one of my favourite songs by Daisuke Ishiwatari, the title itself symbolises quite well my desire to upload my contributions more often at night. It made me wonder if one can take any composed german word and add a -er /-erin suffix at the end to it, turning it into a cool nickname.
-
+I try more than my best to craft everything without using external tools or packages, all from scratch.
 
 <!--
 **Applethal/Applethal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
